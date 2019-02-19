@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : Zurich Blockchain RnD
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  We meet weekly to share our knowledge and work togheter to create innovative technologies. You don't need to be a programmer, we do both research and development. You just need to be motivated and have a stong interest for blockchain and DLTs more in general.
 
 
 ## => Language and Timezone
