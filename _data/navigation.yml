@@ -1,9 +1,9 @@
 header:
   - title: About Us
-    url: /archive.html
+    url: /about.html
 
   - title: Get Started
-    url: /about.html
+    url: /getStarted.html
 
   - title: Projects
-    url: /about.html
+    url: /getStarted.html
