@@ -1,8 +1,9 @@
 header:
-  - title:
-      en      : &EN       About Us
+  - title: About Us
     url: /archive.html
 
-  - titles:
-      en      : &EN       Get Started
+  - title: Get Started
+    url: /about.html
+
+  - title: Projects
     url: /about.html
